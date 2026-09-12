@@ -10,13 +10,13 @@ The real-time webcam deployment module features low-latency multi-threaded infer
 
 <div align="center">
 
-| 1. Left hand Victory sign | 2. Left hand thumbs up sign |
+| 1. Left hand Victory sign | 2. Left hand Thumbs Up sign |
 | :---: | :---: |
-| <img src="screenshot/1_left_victory.png" width="420" alt="Left hand Victory sign" /> | <img src="screenshot/2_left_thumbs_up.png" width="420" alt="Left hand thumbs up sign" /> |
+| <img src="screenshot/1_left_victory.png" width="420" alt="Left hand Victory sign" /> | <img src="screenshot/2_left_thumbs_up.png" width="420" alt="Left hand Thumbs Up sign" /> |
 
-| 3. Right hand open palm sign | 4. Right hand thumbs down sign |
+| 3. Right hand Open Palm sign | 4. Right hand Thumbs Down sign |
 | :---: | :---: |
-| <img src="screenshot/3_right_open_palm.png" width="420" alt="Right hand open palm sign" /> | <img src="screenshot/4_right_thumbs_down.png" width="420" alt="Right hand thumbs down sign" /> |
+| <img src="screenshot/3_right_open_palm.png" width="420" alt="Right hand Open Palm sign" /> | <img src="screenshot/4_right_thumbs_down.png" width="420" alt="Right hand Thumbs Down sign" /> |
 
 </div>
 
