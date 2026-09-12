@@ -10,13 +10,13 @@ The real-time webcam deployment module features low-latency multi-threaded infer
 
 <div align="center">
 
-| Open Palm Detection | Fist Gesture Recognition |
+| 1. Left hand Victory sign | 2. Left hand thumbs up sign |
 | :---: | :---: |
-| <img src="screenshot/demo_open_palm.png" width="420" alt="Open Palm Gesture Recognition" /> | <img src="screenshot/demo_fist.png" width="420" alt="Fist Gesture Recognition" /> |
+| <img src="screenshot/1_left_victory.png" width="420" alt="Left hand Victory sign" /> | <img src="screenshot/2_left_thumbs_up.png" width="420" alt="Left hand thumbs up sign" /> |
 
-| Point Right Gesture | Thumbs Up Gesture |
+| 3. Right hand open palm sign | 4. Right hand thumbs down sign |
 | :---: | :---: |
-| <img src="screenshot/demo_point_right.png" width="420" alt="Point Right Gesture Recognition" /> | <img src="screenshot/demo_thumbs_up.png" width="420" alt="Thumbs Up Gesture Recognition" /> |
+| <img src="screenshot/3_right_open_palm.png" width="420" alt="Right hand open palm sign" /> | <img src="screenshot/4_right_thumbs_down.png" width="420" alt="Right hand thumbs down sign" /> |
 
 </div>
 
