@@ -1,0 +1,15 @@
+{
+  "best_representation": "raw",
+  "best_model": "rbf_svm",
+  "best_validation_macro_f1": 0.9543760031420364,
+  "best_validation_accuracy": 0.9582077460935052,
+  "best_artifact": "C:\\Users\\tamog\\Desktop\\github community\\models\\gesturex_best.joblib",
+  "deployment_artifact": "C:\\Users\\tamog\\Desktop\\github community\\models\\gesturex_best.joblib",
+  "representation_artifacts": {
+    "raw": "C:\\Users\\tamog\\Desktop\\github community\\models\\gesturex_raw_best.joblib",
+    "invariant": "C:\\Users\\tamog\\Desktop\\github community\\models\\gesturex_invariant_best.joblib"
+  },
+  "split_manifest": "C:\\Users\\tamog\\Desktop\\github community\\models\\split_manifest.json",
+  "cross_session_data_used_for_selection": false,
+  "next_step": "Run python src/evaluate.py with the same --data path to measure held-out results."
+}

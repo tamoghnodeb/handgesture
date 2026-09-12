@@ -1,0 +1,43 @@
+# Python bytecode, caches, and test artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+.env
+.python-version
+
+# Jupyter runtime files and checkpoint copies
+.ipynb_checkpoints/
+
+# Local datasets and recordings. Keep only empty directory placeholders in Git.
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+*.mp4
+*.avi
+*.mov
+*.webm
+
+# Generated models and experiment outputs.
+models/*.gitkeep
+results/*.gitkeep
+
+
+# IDE and operating-system files
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+Desktop.ini

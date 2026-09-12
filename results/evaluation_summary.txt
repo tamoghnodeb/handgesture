@@ -1,0 +1,42 @@
+GestureX evaluation summary
+Generated from actual measured results -- not manually authored.
+======================================================================
+
+Same-session accuracy
+  Raw coordinates : 0.8800 (88.00%)
+  Invariant feats : 0.8143 (81.43%)
+
+Cross-session accuracy
+  Raw coordinates : 0.7871 (78.71%)
+  Invariant feats : 0.8429 (84.29%)
+
+Generalization gap (same - cross, accuracy)
+  Raw coordinates : 0.0929
+  Invariant feats : -0.0286
+  -> Invariant features reduce the generalization gap.
+
+Same-session macro F1
+  Raw coordinates : 0.8783
+  Invariant feats : 0.8101
+
+Cross-session macro F1
+  Raw coordinates : 0.7793
+  Invariant feats : 0.8388
+
+======================================================================
+Partition sizes (from manifest)
+  Same-session train      : 882
+  Same-session test       : 350
+  Cross-session test      : 700
+  Development sessions    : ['session_01', 'session_02']
+  Cross-session sessions  : ['session_03']
+
+Smoothing note
+  Temporal smoothing (majority vote) is a deployment-only feature.
+  It was NOT applied to any of the above metrics.
+
+Leakage note
+  The cross-session test sessions were not used during training or
+  validation. The scalers inside the persisted pipelines were fitted
+  only on same-session training rows.
+======================================================================

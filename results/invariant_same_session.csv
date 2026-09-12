@@ -1,0 +1,2 @@
+feature_representation,split,n_samples,accuracy,macro_precision,macro_recall,macro_f1
+invariant,same_session,350,0.8142857142857143,0.8177581919804312,0.8142857142857143,0.8101320243761378
